@@ -10,7 +10,6 @@
 
 namespace printer;
 
-
 class Printer
 {
     //获取acccee_token接口
